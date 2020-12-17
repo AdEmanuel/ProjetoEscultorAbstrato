@@ -1,0 +1,11 @@
+cutbox.o
+cutellipsoid.o
+cutsphere.o
+cutvoxel.o
+figurageometrica.o
+main.o
+putbox.o
+putellipsoid.o
+putsphere.o
+putvoxel.o
+sculptor.o
